@@ -22,7 +22,6 @@ This webpage provides information on the Horiseon marketing agency. Given the st
 * [Learning Points](#learning-points)
 * [Author Info](#author-info)
 * [Credits](#credits)
-* [License](#license)
 
 
 ## Code Refactor Example
@@ -114,13 +113,13 @@ code has improved as well and generally given me a better understanding of what 
 
 ## Author Info
 
-```md
+
 ### Sam Higa 
 
 
 * [LinkedIn](https://www.linkedin.com/in/sam-higa-b887b9209/)
 * [Github](https://github.com/samhiga)
-```
+
 
 
 ## Credits
