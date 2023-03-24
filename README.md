@@ -1,4 +1,4 @@
-# urban-octo-telegram
+# horiseon-code-refactor
 
 ## Technology Used 
 
@@ -10,24 +10,12 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](https://samhiga.github.io/Horiseon-Code-Refactor/)
 
-This webpage provides information on the Horiseon marketing agency. Given the starter code, the task was to make sure the HTML elemants were semantic, that there was a logical structure to the code, that the images were accessible through alt attributes, and that overall everything followed professional and clean format. The result was a website that still maintained its look and function while code has been properly organized. 
-
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
-
-
-![Site Langing Page](./site.gif)
+This webpage provides information on the Horiseon marketing agency. Given the starter code, the task was to make sure the HTML elemants were semantic, that there was a logical structure to the code, that the images were accessible through alt attributes, and that overall everything followed a professional and clean format. The result was a website that still maintained its look and function while code has been properly organized and adjusted. 
 
 
 ## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 * [Code Refactor Example](#code-refactor-example)
 * [Usage](#usage)
@@ -39,7 +27,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Code Refactor Example
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Using the Github clone this repository into your local machine using Terminal or Gitbash. Navigate to wherever you have cloned the files and use a code editor to view the HTML and CSS files. Using the deployed link, you may also view the site. Using the navigation bar will take you to a section of your choosing on the page.
 
 
 ```html
@@ -106,35 +94,22 @@ header {
 
 ```
 
+Some alt attributes where added to the images as well to make them more accessible 
+
+```html
+<img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="seo notebook"/>
+```
+
 ## Usage 
 
-The website is to be used to inquire more information on what Horiseon marketing agency provides its customers while also providing a smooth and functioning user experience that meets accesibility standards.
-
-Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+The website is to be used to inquire more information on what Horiseon marketing agency provides its customers while also providing a smooth and functioning user experience that meets accesibility standards. The HTML and CSS files are also meant to be accessible by being easily readble and easy to follow along to give a good understanding of the structure of the website.
 
 
 ## Learning Points 
 
-Through this project, I was able to obtain a lot of new information. This information regards in how to make HTML elements are semantic
+Through this project, I was able to obtain a lot of new information. TMuch of the information gained was in how to make HTML elements semantic
 as well understanding how to make the CSS sheet correspond to this change as well. My ability to pinpoint and identify potential bugs within the 
 code has improved as well and generally given me a better understanding of what code does what.
-
-This is a good place to Explain what you Learned by creating this application.
-This is a great way to remind about all of the Complex Skills you now have.
-If the user is less experienced than you:
-They will be impressed by what you can do!
-
-If the user is more experienced than you:
-They will be impressed by what you can do!
-
-Remember, it is easy to forget exactly how Valuable and Impressive your skills are, as well as How Much You’ve Learned!
-So quantify that here!
 
 
 ## Author Info
@@ -147,34 +122,14 @@ So quantify that here!
 * [Github](https://github.com/samhiga)
 ```
 
-The user has looked through your whole README, and gotten familiar with your application. 
-This is where you take credit, and make it easy for them to learn more about you!
-Direct them to the following:
-- Your GitHub Profile
-- Your LinkedIn
-- Your Portfolio Website
-- And Anything Else You Want!
-
-Give credit where credit is due! 
-
-If you Pseudocode or Pair Program with someone else, give them kudos in your Contributors section!
-
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Starter code was acquired from "The Coding Bootcamp" through the urban-octo-telegram repository on Github.
+[The Coding Bootcamp Github Page](https://github.com/coding-boot-camp)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-
-## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
+Tutor Brandon Rose assited me with understanding HTML and CSS semantic elements.
 
 ---
 
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
