@@ -26,7 +26,7 @@ This webpage provides information on the Horiseon marketing agency. Given the st
 
 ## Code Refactor Example
 
-Using the Github clone this repository into your local machine using Terminal or Gitbash. Navigate to wherever you have cloned the files and use a code editor to view the HTML and CSS files. Using the deployed link, you may also view the site. Using the navigation bar will take you to a section of your choosing on the page.
+Using Github, clone this repository into your local machine using Terminal or Gitbash. Navigate to wherever you have cloned the files and use a code editor to view the HTML and CSS files. Using the deployed link, you may also view the site. Using the navigation bar will take you to a section of your choosing on the page.
 
 
 ```html
